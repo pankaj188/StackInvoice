@@ -2,7 +2,7 @@
 # MERN Stack Invoicing Application
 Built with the MERN stack (MongoDB, Express, React and NodeJS).
 
-![Invoice](image.png)
+![Invoice](https://ik.imagekit.io/nmzhy5m44/image_-p6WGwAyb?updatedAt=1692620984266)
 ----
 
   * [Introduction](#introduction)
